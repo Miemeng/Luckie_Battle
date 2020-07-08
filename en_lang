@@ -1,0 +1,14 @@
+LB_title Luckie_Battle_V[0_1_1]
+inputins Input_the_word_in_the_brackets.
+start Start(1)
+updtitle See_Updates(2)
+option Options(3)
+thank Thanks(4)
+exit Exit(5)
+thankL Thank_List
+author Author:Miemeng(e-mail:kalginamiemeng@qq.com)
+tester (needed)
+pause Press_any_key_to_continue
+mode1 (1)Free_Battle(Free_for_everyone)
+mode2 (2)Team_Battle(Two_Team)
+mode3 (3)Endless_mode(Belta)
