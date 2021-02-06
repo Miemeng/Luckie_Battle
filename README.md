@@ -1,5 +1,5 @@
 # Luckie_Battle
 
-A console game written by Cpp
+A console game written in Cpp
 
 TUI
